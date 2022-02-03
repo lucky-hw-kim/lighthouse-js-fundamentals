@@ -6,7 +6,7 @@ const stations = [
 
 function chooseStations(stations){
 
-  result = [];
+  let result = [];
 
   for (const station of stations){
 
